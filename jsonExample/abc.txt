@@ -1,0 +1,1 @@
+[{"EmployeeID":100,"EmployeeName":"Pradeep","DeptWorking":"OnLineBanking","Salary":10000},{"EmployeeID":101,"EmployeeName":"Mark","DeptWorking":"OnLineBanking","Salary":20000},{"EmployeeID":102,"EmployeeName":"Smith","DeptWorking":"Mobile banking","Salary":10000},{"EmployeeID":103,"EmployeeName":"John","DeptWorking":"Testing","Salary":7000}]

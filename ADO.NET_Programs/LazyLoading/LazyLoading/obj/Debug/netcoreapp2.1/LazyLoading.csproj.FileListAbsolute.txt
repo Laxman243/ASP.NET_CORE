@@ -1,0 +1,11 @@
+F:\ADO.NET_Programs\LazyLoading\LazyLoading\bin\Debug\netcoreapp2.1\LazyLoading.deps.json
+F:\ADO.NET_Programs\LazyLoading\LazyLoading\bin\Debug\netcoreapp2.1\LazyLoading.runtimeconfig.json
+F:\ADO.NET_Programs\LazyLoading\LazyLoading\bin\Debug\netcoreapp2.1\LazyLoading.runtimeconfig.dev.json
+F:\ADO.NET_Programs\LazyLoading\LazyLoading\bin\Debug\netcoreapp2.1\LazyLoading.dll
+F:\ADO.NET_Programs\LazyLoading\LazyLoading\bin\Debug\netcoreapp2.1\LazyLoading.pdb
+F:\ADO.NET_Programs\LazyLoading\LazyLoading\obj\Debug\netcoreapp2.1\LazyLoading.csprojAssemblyReference.cache
+F:\ADO.NET_Programs\LazyLoading\LazyLoading\obj\Debug\netcoreapp2.1\LazyLoading.csproj.CoreCompileInputs.cache
+F:\ADO.NET_Programs\LazyLoading\LazyLoading\obj\Debug\netcoreapp2.1\LazyLoading.AssemblyInfoInputs.cache
+F:\ADO.NET_Programs\LazyLoading\LazyLoading\obj\Debug\netcoreapp2.1\LazyLoading.AssemblyInfo.cs
+F:\ADO.NET_Programs\LazyLoading\LazyLoading\obj\Debug\netcoreapp2.1\LazyLoading.dll
+F:\ADO.NET_Programs\LazyLoading\LazyLoading\obj\Debug\netcoreapp2.1\LazyLoading.pdb

@@ -1,0 +1,20 @@
+[
+  {
+    "FirstName": "laxman",
+    "LastName": "Shukla",
+    "Gender": "Male",
+    "Salary": 10000
+  },
+  {
+    "FirstName": "Ved",
+    "LastName": "Shukla",
+    "Gender": "Male",
+    "Salary": 12000
+  },
+  {
+    "FirstName": "Anita",
+    "LastName": "Shukla",
+    "Gender": "Female",
+    "Salary": 100
+  }
+]

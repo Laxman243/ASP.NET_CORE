@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="CompanyDb" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="CompanyDbContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CompanyDetails" EntityType="CompanyDb.CompanyDetails" />
+  </EntityContainer>
+  <EntityType Name="CompanyDetails">
+    <Key>
+      <PropertyRef Name="CID" />
+    </Key>
+    <Property Name="CID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CName" Type="String" Nullable="false" />
+    <Property Name="CAddress" Type="String" Nullable="false" />
+  </EntityType>
+</Schema>

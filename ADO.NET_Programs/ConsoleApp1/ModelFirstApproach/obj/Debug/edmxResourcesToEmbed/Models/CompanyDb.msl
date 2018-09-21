@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CompanyDbStoreContainer" CdmEntityContainer="CompanyDbContainer">
+    <EntitySetMapping Name="CompanyDetails">
+      <EntityTypeMapping TypeName="IsTypeOf(CompanyDb.CompanyDetails)">
+        <MappingFragment StoreEntitySet="CompanyDetails">
+          <ScalarProperty Name="CID" ColumnName="CID" />
+          <ScalarProperty Name="CName" ColumnName="CName" />
+          <ScalarProperty Name="CAddress" ColumnName="CAddress" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
